@@ -1,3 +1,12 @@
+
+
+This is a simple react app using Redux state managment. The app is completed, but there a 2 bugs that will be fixed. 
+
+Bugs: 
+1. Cannot enter a product name into the input field. 
+2. Cant change product price
+3. When removing a product it removes all of the products not just the one. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
